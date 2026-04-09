@@ -31,6 +31,7 @@ Soy estudiante de **Ingeniería Civil en Computación** en el Instituto Profesio
 
 ### 📊 Mis Estadísticas de GitHub
 ![Estadísticas de Constanza](https://github-readme-stats.vercel.app/api?username=constanza-campos&show_icons=true&theme=radical)
+
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=constanza-campos&layout=compact&theme=radical)
 
 ---

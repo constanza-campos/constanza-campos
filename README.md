@@ -27,12 +27,6 @@ Soy estudiante de **Ingeniería Civil en Computación** en el Instituto Profesio
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 Mis Estadísticas de GitHub
-![Estadísticas de Constanza](https://github-readme-stats.vercel.app/api?username=constanza-campos&show_icons=true&theme=radical)
-
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=constanza-campos&layout=compact&theme=radical)
 
 ---
 
